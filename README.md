@@ -84,7 +84,8 @@
 <!-- Enter Description Below -->
 The goal of this project was to build the back end for an e-commerce site by modifying starter code. I configured a working Express.js API to use Sequelize to interact with a MySQL database.
 
-[![HW13 ORM E-Commerce Back End Walkthrough Video Preview][]](add link here)
+[![Walkthrough Video Preview](assets/images/image.png)](https://drive.google.com/file/d/13z5yatN969nfIvfY1TYlG12D471bSb8U/view)
+
 
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `gmeyer24`, `HW13-Object-Relational-Mapping--ORM-E-Commerce-Back-End`, `gavinpmeyer`, `gmail`, `gpmeyer24`, `HW13 ORM E-Commerce Back End`, `project_description` -->
 
@@ -145,7 +146,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Walkthrough Video
 
-* [Walkthrough Video Link]()
+* [Walkthrough Video Link](https://drive.google.com/file/d/13z5yatN969nfIvfY1TYlG12D471bSb8U/view)
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
@@ -199,7 +200,7 @@ Gavin Meyer | Email: gpmeyer24@gmail.com | GitHub: gmeyer24
 
 Project Link: [GitHub Project Link](https://github.com/gmeyer24/HW13-Object-Relational-Mapping--ORM-E-Commerce-Back-End)
 
-Walkthrough Video Link: [Video Link]()
+Walkthrough Video Link: [Video Link](https://drive.google.com/file/d/13z5yatN969nfIvfY1TYlG12D471bSb8U/view)
 
 <p align="right">(<a href="#readme-top">Back To Top</a>)</p>
 
