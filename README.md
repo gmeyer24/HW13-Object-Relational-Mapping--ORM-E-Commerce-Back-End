@@ -84,7 +84,7 @@
 <!-- Enter Description Below -->
 The goal of this project was to build the back end for an e-commerce site by modifying starter code. I configured a working Express.js API to use Sequelize to interact with a MySQL database.
 
-[![HW13 ORM E-Commerce Back End Walkthrough Video Preview][]]()
+[![HW13 ORM E-Commerce Back End Walkthrough Video Preview][]](add link here)
 
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `gmeyer24`, `HW13-Object-Relational-Mapping--ORM-E-Commerce-Back-End`, `gavinpmeyer`, `gmail`, `gpmeyer24`, `HW13 ORM E-Commerce Back End`, `project_description` -->
 
